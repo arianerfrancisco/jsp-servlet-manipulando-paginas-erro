@@ -13,12 +13,12 @@
 
     <servlet>
         <description></description>
-        <display-name>TesteServlet</display-name>
-        <servlet-name>TesteServlet</servlet-name>
-        <servlet-class>servlet.TesteServlet</servlet-class>
+        <display-name>ServletTeste</display-name>
+        <servlet-name>ServletTeste</servlet-name>
+        <servlet-class>servlet.ServletTeste</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>TesteServlet</servlet-name>
-        <url-pattern>/Teste</url-pattern>
+        <servlet-name>ServletTeste</servlet-name>
+        <url-pattern>/ServletTeste</url-pattern>
     </servlet-mapping>
 </web-app>
